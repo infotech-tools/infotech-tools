@@ -12,4 +12,4 @@ Our mission at InfoTech Tools (infotech.tools) is to empower the global Informat
 
 Castra Labs is dedicated to the Information Technology Community and has sponsored this project under their X-Labs project. Scale your business with lightning fast, secure and fully-managed WordPress hosting. 
 
-[Visit Castra Labs >](https://castralabs.com/?utm_source=infotec.tools&utm_medium=project-sponsor-github)
+[Visit Castra Labs >](https://castralabs.com/?utm_source=infotec.tools&utm_medium=github-project-sponsor)
